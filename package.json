@@ -4,7 +4,7 @@
   "description": "App gerenciador de tarefas com NodeJS e MongoDB. Projeto feito para praticar JS.",
   "main": "index.js",
   "scripts": {
-    "start:dev":"nodemon index.js"
+    "start:dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/vitto2/task-manager-app/issues"
   },
-  "homepage": "https://github.com/vitto2/task-manager-app#readme"
+  "homepage": "https://github.com/vitto2/task-manager-app#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.5.0"
+  }
 }
