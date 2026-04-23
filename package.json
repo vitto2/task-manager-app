@@ -1,0 +1,21 @@
+{
+  "name": "task-manager-app",
+  "version": "1.0.0",
+  "description": "App gerenciador de tarefas com NodeJS e MongoDB. Projeto feito para praticar JS.",
+  "main": "index.js",
+  "scripts": {
+    "start:dev":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitto2/task-manager-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vitto2/task-manager-app/issues"
+  },
+  "homepage": "https://github.com/vitto2/task-manager-app#readme"
+}
